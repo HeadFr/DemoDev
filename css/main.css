@@ -1,4 +1,13 @@
-body {
-	background-image: ('../img/iceberg complet.jpg');
+main {
+	
+	width: 960px;
+	height: 1024px;
+	background-image: url('../img/icefull.jpg');
 	background-repeat: no-repeat;
+	margin: 0 auto;
+	
 }
+
+#html5 {
+
+}	
