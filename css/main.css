@@ -1,5 +1,5 @@
 main {
-	
+	position : relative;
 	width: 960px;
 	height: 1024px;
 	background-image: url('../img/icefull.jpg');
@@ -8,6 +8,74 @@ main {
 	
 }
 
-#html5 {
+#devFront {
+	position: absolute;
+	top : 30px;
+	left : 270px;
 
-}	
+}
+
+#devBack {
+	position: absolute;
+	top : 797px;
+	left : 3px;
+}
+
+#html5 {
+	position: absolute;
+	top : 280px;
+	left : 580px;
+
+}
+
+#css3 {
+	position: absolute;
+	top : 284px;
+	left : 660px;
+
+}
+
+#javaScript {
+	position: absolute;
+	top : 283px;
+	left : 730px;
+
+}
+
+#php {
+	position: absolute;
+	top : 550px;
+	left : 320px;
+
+}
+
+#mysql {
+	position: absolute;
+	top : 610px;
+	left : 360px;
+
+}
+
+#frameworks {
+	position: absolute;
+	top : 720px;
+	left : 380px;
+}
+
+h3 {
+	font-family: arial, sans-serif;
+	color: white;
+	position: absolute;
+	bottom : 15px;
+	right : 5px;
+}
+
+
+#bouton {
+	position : absolute;
+	top : 930px;
+	left : 420px;
+	background-color: lightblue;
+	box-shadow: 0 0 5px black;
+	border-radius: 15px 
+}
